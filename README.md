@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biniam0
+- 👋 Hi, I’m Jaleta Kebede
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking forward to collaborate.
