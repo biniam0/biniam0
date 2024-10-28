@@ -4,12 +4,11 @@
 
 I'm Jaleta Kebede from Adama Ethiopia, and I'm an Intern Software Engineer at ASTU. I really enjoy learning languages and frameworks like Python, Django, as well as collaborating on Open-source Projects. You can check out my LinkedIn at www.linkedin.com/in/biniam0 and my leetcode at https://leetcode.com/u/bini_yam0/
 
-Skills: Python / Django /  HTML / CSS / Bootstrap
+Skills: Python Programmer
 
-- 🔭 I’m currently working on Personal Project 
+- 🔭 I’m currently working on my Skills
+- 👯 I’m looking forward to  collaborae on Open Source Project 
 - 🌱 I’m currently learning Python and Django 
-- 👯 I’m looking to collaborate on Open Source Project 
-- 🤔 I’m looking for help with Django 
 - 💬 Ask me about Python 
 - 📫 How to reach me: jaletakebede@gmail.com 
 - ⚡ Fun fact: Grinder 
