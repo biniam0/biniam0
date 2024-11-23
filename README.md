@@ -1,7 +1,17 @@
 ### Hi there 👋, Jaleta Kebede
 #### Software Engineer!
 
-https://www.google.com/imgres?q=github%20chill%20banner&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FJacquesInnocent&docid=Nve4jcybFr5VXM&tbnid=M2smYocOcR_iGM&vet=12ahUKEwjdkoKoy_KJAxUpVaQEHZj7HB0QM3oECBUQAA..i&w=1900&h=684&hcb=2&ved=2ahUKEwjdkoKoy_KJAxUpVaQEHZj7HB0QM3oECBUQAA
+       #######
+     ##       ##
+    #  ### ###  #
+    #   #   #   #
+     #         #
+      ##     ##
+     #  #####  #
+    #           #
+   #             #
+    ##         ##
+      #########
 
 I'm Jaleta Kebede from Adama Ethiopia, and I'm a Software Engineer at ASTU. I really enjoy learning new things, as well as collaborating on Open-source Projects. You can check out my LinkedIn at www.linkedin.com/in/biniam0 and my leetcode at https://leetcode.com/u/bini_yam0/
 
