@@ -1,13 +1,13 @@
 ### Hi there 👋, Jaleta Kebede
-#### Software Engineer
-![Software Engineer]([https://img.freepik.com/free-photo/top-view-blue-monday-concept-with-copy-space_23-2148719974.jpg?w=740&t=st=1718626933~exp=1718627533~hmac=2bd062797189b4c2ccc3eebb435aa6949566f39648bfcf7d7b1b1e75a22a55ac](https://media.licdn.com/dms/image/v2/D4D16AQGlazhVEfKPLg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726571891509?e=1732752000&v=beta&t=vM6oXR_48Hh5cGFEq5UIjbgMJMIlYu04PIg6XM2j_Lg))
+#### Software Engineer!
+[gitbanner](https://github.com/user-attachments/assets/363a2825-b761-4edd-92c6-a1c373cff957)
 
-I'm Jaleta Kebede from Adama Ethiopia, and I'm an Intern Software Engineer at ASTU. I really enjoy learning languages and frameworks like Python, Django, as well as collaborating on Open-source Projects. You can check out my LinkedIn at www.linkedin.com/in/biniam0 and my leetcode at https://leetcode.com/u/bini_yam0/
+I'm Jaleta Kebede from Adama Ethiopia, and I'm a Software Engineer at ASTU. I really enjoy learning new things, as well as collaborating on Open-source Projects. You can check out my LinkedIn at www.linkedin.com/in/biniam0 and my leetcode at https://leetcode.com/u/bini_yam0/
 
 Skills: Python Programmer
 
 - 🔭 I’m currently working on my Skills
-- 👯 I’m looking forward to  collaborae on Open Source Project 
+- 👯 I’m looking forward to collaborate on Open Source Project 
 - 🌱 I’m currently learning Python and Django 
 - 💬 Ask me about Python 
 - 📫 How to reach me: jaletakebede@gmail.com 
