@@ -1,4 +1,4 @@
-### Hi there 👋, Jaleta Kebede
+### Hi there 👋, I'm Bini
 #### Software Engineer!
 
        #######
