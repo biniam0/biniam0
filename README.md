@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<!--
 - 🔭 I’m currently improving my full-stack development skills  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 🌱 Currently diving deeper into **Python** and **Django**  
@@ -57,3 +57,4 @@ _Thanks for stopping by! Feel free to connect or collaborate!_
 biniam0/biniam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-->
